@@ -15,14 +15,14 @@ Welcome to my GitHub profile!
 ---
 
 ## 🏗️ Featured Projects
-### 1. **issue-tracker(#)**  
+### 1. **issue-tracker**  
 A scalable web application built with **Next.js**, **TypeScript**.  
 **Highlights**:  
 - Implemented dynamic routing and server-side rendering with Next.js.  
 - Designed a sleek UI using Tailwind CSS.  
 - Integrated robust database operations with MySQL.  
 
-### 2. **game-hub(#)**  
+### 2. **game-hub**  
 An e-commerce platform built with **React** + **TypeScript**.  
 **Highlights**:    
 - Styled components with Tailwind CSS for a modern design.
@@ -43,9 +43,8 @@ An e-commerce platform built with **React** + **TypeScript**.
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn**: https://bit.ly/3EHDolc(#)  
-- **Portfolio**: [YourPortfolioLink](#)  
-- **Twitter**: bit.ly/44K9N5g(#)  
+- **LinkedIn**: https://bit.ly/3EHDolc    
+- **Twitter**: bit.ly/44K9N5g  
 
 ---
 
