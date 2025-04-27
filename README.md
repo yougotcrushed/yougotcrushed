@@ -1,4 +1,4 @@
-# Hi there, I'm YouGotCrushed! 👋
+# Hi there, I'm Benjamin! 👋
 
 Welcome to my GitHub profile!  
 💻 Full-stack developer passionate about crafting exceptional web applications.  
