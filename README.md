@@ -15,18 +15,35 @@ Welcome to my GitHub profile!
 
 ---
 
-## 🏗️ Featured Projects
-### 1. **issue-tracker**  
-A scalable web application built with **Next.js**, **TypeScript**.  
-**Highlights**:  
-- Implemented dynamic routing and server-side rendering with Next.js.  
-- Designed a sleek UI using Tailwind CSS.  
-- Integrated robust database operations with MySQL.  
+## 🎓 Certifications & Courses
+I have completed the following courses to enhance my skills:
 
-### 2. **game-hub**  
-A video game discovery app **React** + **TypeScript**.  
-**Highlights**:    
-- Styled components with Tailwind CSS for a modern design.
+### 🐍 Python & Django
+- **[Complete Python Mastery https://codewithmosh.com** - CodeWithMosh
+- **[The Ultimate Django Series (Parts 1–3) https://bit.ly/3YKVZ6M** - CodeWithMosh
+- **[Python Projects for Beginners https://bit.ly/4izjWoA** - CodeWithMosh
+
+### 🌐 HTML, CSS, & JavaScript
+- **The Ultimate HTML5 & CSS3 Series (Parts 1–3) https://codewithmosh.com** - CodeWithMosh
+- **Ultimate JavaScript (Fundamentals & Advanced Topics) https://bit.ly/4cT63Ar** - CodeWithMosh
+- **Mastery JavaScript Unit Testing https://bit.ly/4lFqULA** - CodeWithMosh
+
+### ⚛️ React & Next.js
+- **[React 18 (Beginners & Intermediate Topics) https://bit.ly/431XJLn** - CodeWithMosh
+- **[Testing React Apps with React Testing Library https://bit.ly/44cHyMn** - CodeWithMosh
+- **[Mastering Next.js 13 with TypeScript https://bit.ly/44uTQjx** - CodeWithMosh
+
+### 🛠️ Git & Version Control
+- **The Ultimate Git Course https://bit.ly/3GEniJE** - CodeWithMosh
+
+
+---
+
+## 📁 Projects
+Here are some of my personal projects that demonstrate the skills I've learned:
+
+- 1 (https://github.com/yougotcrushed/) - Backend for an e-ecommence applicalication built with Django
+- 2 (https://github.com/yougotcrushed/) - A video game discovery app built with React
 
 ---
 
