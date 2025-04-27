@@ -9,7 +9,8 @@ Welcome to my GitHub profile!
 ## 🔧 Technologies & Tools
 - **Languages**: HTML, CSS, Python, JavaScript, TypeScript
 - **Frameworks**: Django, React, Next.js  
-- **Databases**: MySQL, PostgreSQL  
+- **Databases**: MySQL, PostgreSQL
+- **Version Control**: Git, GitHub  
 - **Styling**: Tailwind CSS  
 
 ---
