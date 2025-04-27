@@ -23,7 +23,7 @@ A scalable web application built with **Next.js**, **TypeScript**.
 - Integrated robust database operations with MySQL.  
 
 ### 2. **game-hub**  
-An e-commerce platform built with **React** + **TypeScript**.  
+A video game discovery app **React** + **TypeScript**.  
 **Highlights**:    
 - Styled components with Tailwind CSS for a modern design.
 
@@ -44,7 +44,7 @@ An e-commerce platform built with **React** + **TypeScript**.
 
 ## 📫 Let's Connect
 - **LinkedIn**: https://bit.ly/3EHDolc    
-- **Twitter**: bit.ly/44K9N5g  
+- **Twitter**:  https://bit.ly/44K9N5g  
 
 ---
 
