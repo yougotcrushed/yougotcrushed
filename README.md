@@ -48,8 +48,7 @@ Here are some of my personal projects that demonstrate the skills I've learned:
 ---
 
 ## 📈 GitHub Stats
-![YouGotCrushed's GitHub stats](https://github-readme-stats.vercel.app/api?username=yougotcrushed&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yougotcrushed&layout=compact&theme=radical)
+![YouGotCrushed's GitHub stats](https://github-readme-stats.vercel.app/api?username=yougotcrushed&show_icons=true&theme=radical)
 
 ---
 
