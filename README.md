@@ -34,7 +34,7 @@ I have completed the following courses to enhance my skills:
 - **[Mastering Next.js 13 with TypeScript https://bit.ly/44uTQjx** - CodeWithMosh
 
 ### 🛠️ Git & Version Control
-- **The Ultimate Git Course https://bit.ly/3GEniJE** - CodeWithMosh
+- **The Ultimate Git Course https://bit.ly/3GEniJE** - CodeWithMos
 
 
 ---
